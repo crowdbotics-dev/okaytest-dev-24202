@@ -11,8 +11,8 @@ const Untitled2 = () => {
     height: '100%'
   }}>
       <View style={{
-      left: 23,
-      top: 37,
+      left: 28,
+      top: 14,
       position: "absolute",
       height: 60,
       width: 140,
@@ -23,8 +23,8 @@ const Untitled2 = () => {
       borderWidth: 7,
       opacity: 0.73
     }}></View><Text style={{
-      left: 42,
-      top: 166,
+      left: 54,
+      top: 129,
       position: "absolute",
       width: 100,
       height: 31,
