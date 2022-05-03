@@ -10,18 +10,18 @@ const Untitled1 = () => {
     height: '100%'
   }}>
       <View style={{
-      left: 56,
-      top: 24,
+      left: 0,
+      top: 0,
       position: "absolute",
-      width: 80,
+      width: 197,
       height: 80,
       backgroundColor: "#cc2626",
       borderRadius: 74,
       borderColor: "#15e421",
       borderWidth: 8
     }}></View><Text style={{
-      left: 41,
-      top: 209,
+      left: 39,
+      top: 147,
       position: "absolute",
       width: 100,
       height: 39,
