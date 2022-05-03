@@ -35,8 +35,8 @@ const Untitled2 = () => {
       fontWeight: 100,
       fontFamily: "Roboto"
     }}>Testing World  </Text><ImageBackground style={{
-      left: 26,
-      top: 263,
+      left: 21,
+      top: 242,
       position: "absolute",
       width: 149,
       height: 89
