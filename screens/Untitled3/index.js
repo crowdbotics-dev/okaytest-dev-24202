@@ -1,3 +1,4 @@
+import { TextInput } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
@@ -18,7 +19,31 @@ const Untitled3 = () => {
       borderRadius: "50%",
       borderColor: "#2da5a7",
       borderWidth: 0
-    }}></View></View>;
+    }}></View><TextInput style={{
+      left: 32,
+      top: 137,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }} placeholder="Testing World " defaultValue="Test roy"></TextInput><TextInput style={{
+      left: 31,
+      top: 191,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }} placeholder="Test123" defaultValue="testing23"></TextInput><TextInput style={{
+      left: 19,
+      top: 266,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }}></TextInput></View>;
 };
 
 export default Untitled3;

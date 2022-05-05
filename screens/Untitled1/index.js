@@ -1,3 +1,4 @@
+import { TextInput } from "react-native";
 import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
@@ -34,7 +35,15 @@ const Untitled1 = () => {
       fontFamily: "Roboto Mono",
       fontWeight: 700,
       textAlign: "center"
-    }}>CrowdboticsTesting</Text></View>;
+    }}>CrowdboticsTesting</Text><TextInput style={{
+      left: 13,
+      top: 248,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }}></TextInput></View>;
 };
 
 export default Untitled1;
