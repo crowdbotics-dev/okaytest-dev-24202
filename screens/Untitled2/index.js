@@ -13,7 +13,7 @@ const Untitled2 = () => {
   }}>
       <View style={{
       left: 28,
-      top: 14,
+      top: 4,
       position: "absolute",
       height: 60,
       width: 140,
