@@ -20,14 +20,6 @@ const Untitled3 = () => {
       borderColor: "#2da5a7",
       borderWidth: 0
     }}></View><TextInput style={{
-      left: 32,
-      top: 137,
-      position: "absolute",
-      backgroundColor: "#ffffff",
-      borderColor: "#cccccc",
-      width: 150,
-      height: 30
-    }} placeholder="Testing World " defaultValue="Test roy"></TextInput><TextInput style={{
       left: 31,
       top: 191,
       position: "absolute",
@@ -35,15 +27,7 @@ const Untitled3 = () => {
       borderColor: "#cccccc",
       width: 150,
       height: 30
-    }} placeholder="Test123" defaultValue="testing23"></TextInput><TextInput style={{
-      left: 19,
-      top: 266,
-      position: "absolute",
-      backgroundColor: "#ffffff",
-      borderColor: "#cccccc",
-      width: 150,
-      height: 30
-    }}></TextInput></View>;
+    }} placeholder="Test123" defaultValue="testing23"></TextInput></View>;
 };
 
 export default Untitled3;
