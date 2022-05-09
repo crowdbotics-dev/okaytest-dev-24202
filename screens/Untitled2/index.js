@@ -24,8 +24,8 @@ const Untitled2 = () => {
       borderWidth: 7,
       opacity: 0.73
     }}></View><Text style={{
-      left: 54,
-      top: 129,
+      left: 66,
+      top: 132,
       position: "absolute",
       width: 100,
       height: 31,
