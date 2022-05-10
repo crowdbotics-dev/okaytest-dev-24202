@@ -20,7 +20,8 @@ const Untitled1 = () => {
       backgroundColor: "#cc2626",
       borderRadius: 74,
       borderColor: "#15e421",
-      borderWidth: 8
+      borderWidth: 8,
+      transform: "rotate(340deg)"
     }}></View><Text style={{
       left: 46,
       top: 104,
