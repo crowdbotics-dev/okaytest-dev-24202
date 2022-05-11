@@ -20,7 +20,7 @@ const Untitled2 = () => {
       backgroundColor: "#dd2121",
       borderRadius: 0,
       color: "#777777",
-      borderColor: "#2ce6c4",
+      borderColor: "#142320",
       borderWidth: 7,
       opacity: 0.73
     }}></View><Text style={{
