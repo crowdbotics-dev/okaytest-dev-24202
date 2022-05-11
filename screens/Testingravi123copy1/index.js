@@ -37,8 +37,8 @@ const Untitled1 = () => {
       fontWeight: 700,
       textAlign: "center"
     }}>CrowdboticsTesting</Text><ImageBackground style={{
-      left: 28,
-      top: 192,
+      left: 34,
+      top: 166,
       position: "absolute",
       width: 143,
       height: 103
