@@ -12,8 +12,8 @@ const Untitled1 = () => {
     borderRadius: "50%"
   }}>
       <View style={{
-      left: 0,
-      top: 0,
+      left: -8,
+      top: 31,
       position: "absolute",
       width: 197,
       height: 80,
